@@ -1,26 +1,15 @@
-# CSS Layouts and Responsive Design
+# Travel Dreams Webpage
 
-## Objectives
+## Description:
+This webpage showcases my dream travel destinations. It features a responsive layout built using HTML, CSS (Flexbox & Grid), and media queries to ensure a seamless user experience across different devices (mobile, tablet, desktop).
 
-Implement Flexbox and Grid for layout design.
-Make the webpage responsive using media queries.
-Ensure proper alignment and spacing.
+## Technologies Used:
+- **HTML**: Structure of the webpage.
+- **CSS**: Styling and layout (Flexbox, Grid, Media Queries).
+- **Images**: Beautiful travel destinations.
 
-## Instructions
-
-- use Flexbox or CSS Grid.
-- Add a navigation bar and structure the content.
-- Use media queries to adjust layout for mobile, tablet, and desktop.
-
->[!NOTE]
->  - Include at least:
->  - navigation bar
->  - media queries
-
-# Tasks
-
-- Apply Flexbox or Grid for layout.
-- Make the page responsive.
-- Test across different screen sizes.
-
-Happy Coding! 💻✨
+## Features:
+- Fully responsive layout.
+- Hover effects on images for smooth user interaction.
+- Personal reflections on my dream destinations.
+ECHO is on.
